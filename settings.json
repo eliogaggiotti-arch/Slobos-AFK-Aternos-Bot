@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "afkBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "gaggio67.aternos.me",
-    "port": 58395,
+    "ip": "RecyNzione.aternos.me",
+    "port": 63448,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 1000,
     "max-reconnect-delay": 120000
   },
   "movement": {
